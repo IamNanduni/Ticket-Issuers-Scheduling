@@ -73,5 +73,5 @@ The project concluded that recruiting 2 additional workers (for a total of 14) i
 
 
 
-## **Conclusion**##
+## **Conclusion**
 The successful application of mathematical optimization using the PuLP library provided a data-driven solution to the scheduling problem at the Kandy Railway Station. The model provides a sustainable workforce management plan that addresses current operational challenges and enhances the station's reputation for reliable and passenger-friendly service.

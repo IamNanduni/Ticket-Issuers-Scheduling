@@ -1,9 +1,9 @@
 # Ticket-Issuers-Scheduling
-##**Optimized Ticket Worker Scheduling at Kandy Railway Station**##
+##**Optimized Ticket Worker Scheduling at Kandy Railway Station**
 This project addresses the challenges of inefficient ticket worker scheduling at the Kandy Railway Station, which has resulted in overstaffing during off-peak hours and understaffing during peak hours. The primary goal was to develop an optimized scheduling model to ensure the right number of workers are available at all times, thereby improving both operational efficiency and customer service.
 
 
-##**Problem Overview**##
+##**Problem Overview**
 The Kandy Railway Station faces staffing and scheduling challenges, particularly after merging two shifts into one extended shift due to labor regulations. The two new shifts are:
 
 
@@ -20,7 +20,7 @@ Currently, the station has 12 ticket issuers, but management believed this was i
 
 
 
-##**Methodology**##
+##**Methodology**
 A mixed-integer linear programming (MILP) model was developed to solve the scheduling problem. The model's objective was to minimize the total number of workers recruited while ensuring a fair workload distribution and compliance with various constraints.
 
 **Key Constraints:**
@@ -44,7 +44,7 @@ A mixed-integer linear programming (MILP) model was developed to solve the sched
 
 -  Matplotlib: Used for data visualization.
 
-##**Results and Discussion**##
+##**Results and Discussion**
 The analysis evaluated four scenarios with varying numbers of additional workers:
 
 
